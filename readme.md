@@ -118,3 +118,4 @@ class TimerComponent extends Component {
   // ...
 }
 ```
+
